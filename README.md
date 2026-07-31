@@ -1,6 +1,18 @@
 # ShadowFox Data Science Internship — Beginner Level Task
 ## Matplotlib & Seaborn: A Complete Python Data Visualization Guide
 
+# ShadowFox Data Science Internship
+
+## Student Details
+- Name: Tushar Kumar Aastik
+- University: Central University of Jammu
+- Course: B.Tech (Cyber Security)
+
+## Internship Details
+- Company: ShadowFox
+- Domain: Data Science
+- Duration: 1 July 2026 – 31 July 2026
+
 This repository contains the completed **Beginner Level Task** for the
 ShadowFox Data Science Internship: a comprehensive documentation guide
 comparing **Matplotlib** and **Seaborn**, the two most widely used Python
